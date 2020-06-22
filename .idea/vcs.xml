@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter 5/Diamond" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter 5/flask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter 5/howdoi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter 5/requests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter 5/tablib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter 5/werkzeug" vcs="Git" />
   </component>
 </project>
